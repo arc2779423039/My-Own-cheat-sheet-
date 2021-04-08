@@ -1,0 +1,50 @@
+body {
+  background-color: lightgray;
+}
+
+header {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  background-color: lightgray;
+  
+}
+
+h3 {
+  color: white;
+  background-color: lightgray;
+  font-style: italic;
+  
+}
+
+th {
+  color: black;
+  background-color: orchid;
+  text-align: center;
+  font-weight: bold;
+}
+
+table {
+  border: 2px solid darkorchid;
+  width: 650px;
+  margin: 0 auto;
+}
+
+td {
+  background-color: grey;
+  color: black;
+}
+
+
+
+.tags{
+  background-color: lemonchiffon;
+}
+
+.attributes {
+  background-color: lemonchiffon;
+}
+
